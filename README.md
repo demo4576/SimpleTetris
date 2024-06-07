@@ -1,1 +1,1 @@
-SimpleTetris as the name suggests is simple tetris game designed in Java by me.
+SimpleTetris as the name suggests is a simple tetris game designed by me in Java.
